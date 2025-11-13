@@ -1,0 +1,19 @@
+
+/* Page 2: Tiled Background */
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(Images/2-square-tile.gif);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center top;
+}
+
+.wrapper {
+    max-width: 970px;
+    margin: 20px auto;
+    background-color: rgba(250, 196, 61, 0.95);
+    border: 5px solid rgb(204, 102, 0);
+    padding: 30px;
+}
